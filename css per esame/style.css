@@ -290,6 +290,7 @@ a.ig :hover {
   width: 150px;
   height: auto;
   padding: 20px;
+  margin-bottom: 30px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-bottom-left-radius: 10px;
@@ -399,6 +400,7 @@ a.home {
   height: 900px;
   margin-top: 70px;
   padding-bottom: 70px;
+  margin-bottom: 70px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-bottom-left-radius: 10px;
@@ -450,3 +452,16 @@ a.home {
 	background-color: #C8BFE7;
 }
 
+.groups {
+	font-size: 20px;
+  background-color: #C8BFE7;
+  width: 900px;
+  height: auto;
+  padding: 40px;
+  margin: 70px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding-bottom: 70px;
+}
