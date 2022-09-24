@@ -193,7 +193,7 @@ padding-bottom: 50px;
 
 footer {
 	background-color:#E8E6F4 ;
-	height: 200px;
+	height: 100px;
 }
 
 .footerbar {
@@ -202,8 +202,14 @@ footer {
  
 .ending {
 	text-align: center;
-	padding: 3em 40%;
+	padding: 7% 40%;
 	font-size: 40px;
+}
+
+.ending2 {
+	text-align: center;
+	font-size: 15px;
+	padding: 2% 30%;
 }
 
 .fa-instagram {
@@ -336,6 +342,7 @@ a{
 }
 
 
+
 /* pagina what's a bias */
 
 body.about2 {
@@ -464,4 +471,86 @@ a.home {
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   padding-bottom: 70px;
+}
+
+.answer2 {
+	text-align: center;
+	 font-size: 14px;
+  background-color: #C8BFE7;
+  width: 150px;
+  height: auto;
+  padding-top: 7%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+
+.abstract {
+	font-size: 20px;
+	padding: 0% 7% 5% 7%;
+}
+.obiettivi {
+	font-size: 20px;
+	padding: 0% 7% 2% 7%;
+}
+.oned {
+	width: 80%;
+}
+.competitors {
+	padding-top: 6%;
+}
+
+.siti {
+	font-size: 20px;
+	padding: 0% 7% 2% 7%;
+}
+
+#albero {
+	padding-bottom: 50px;
+}
+
+.wireframe {
+	padding-top: 2%;
+	background-color: white;
+}
+.sos {
+	margin-top: 50px;
+	padding-bottom: 40px;
+}
+
+.look {
+	padding-top: 5%;
+}
+
+.colori {
+	font-size: 20px;
+	padding: 0% 15% 2% 15%;
+}
+
+.lin {
+		font-size: 20px;
+	padding: 0% 7% 1% 7%;
+}
+
+.wireframe2 {
+	padding-top: 2%;
+	background-color: white;
+
+}
+
+.obiettiviinsta {
+	font-size: 20px;
+	padding-top: 3%;
+	padding-bottom: 6%;
+}
+
+.analytics {
+	width: 50%;
+}
+
+
+.instagramp {
+	width: 300px;
 }
